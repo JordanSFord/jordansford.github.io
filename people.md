@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Group Members
+title: Experience
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+Educated in the use of various quantitative chemistry applications, including:
+
+-Gravimetric Analysis
+-Gas Chromotography
+-Infrared Spectroscopy
+-Nuclear Magnetic Resonance Spectroscopy (60 MHz and 300 MHz)
