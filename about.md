@@ -8,7 +8,12 @@ Jordan Ford is currently in their second year of Biochemistry at California Poly
 
 ### More Information
 
-When outside of the lab, Jordan can found exploring their passion for coffee and cooking. They are a passionate member of the LGBTQ+ community who works to uplift disadvantaged individuals like themselves, and takes great pride in their accomplishments as a queer and trans individual in STEM.
+When outside of the lab, Jordan can found exploring their passion for coffee, cooking, and songwriting. They are a passionate member of the LGBTQ+ community who works to uplift disadvantaged individuals like themselves, and takes great pride in their accomplishments as a queer and trans individual in STEM.
+
+For LGBTQ+ resources, visit: [The Trevor Project](https://www.thetrevorproject.org/)
+
+![Alternative Text]( {{ site.baseurl }}/images/WebsitePride.jfif )
+
 
 ### Contact me
 
