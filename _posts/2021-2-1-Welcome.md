@@ -1,5 +1,6 @@
 ---
 layout: post
-title: Welcome!
+title: Overview
 ---
-You can change the title above if you want to and then write your content.  
+
+Jordan Ford is currently studying Biochemistry at Cal Poly-San Luis Obispo. Navigate the tabs above for more information!
